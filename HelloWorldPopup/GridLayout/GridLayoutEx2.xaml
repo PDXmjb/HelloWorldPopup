@@ -13,5 +13,4 @@
         <Button Grid.Row="1" TextColor="White" BackgroundColor="#1DABF0" Text="Login"></Button>
         <Button Grid.Row="2" TextColor="White" BackgroundColor="#1DABF0" Text="Register"></Button>
     </Grid>
-    
 </ContentPage>

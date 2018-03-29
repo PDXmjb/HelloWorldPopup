@@ -3,11 +3,11 @@ using System.Collections.Generic;
 
 using Xamarin.Forms;
 
-namespace HelloWorldPopup
+namespace HelloWorldPopup.RelativeLayout
 {
-    public partial class RelativePage : ContentPage
+    public partial class RelativeLayoutEx1 : ContentPage
     {
-        public RelativePage()
+        public RelativeLayoutEx1()
         {
             InitializeComponent();
         }

@@ -19,7 +19,7 @@ namespace HelloWorldPopup
                 DependencyService.Register<CloudDataStore>();
 
             if (Device.RuntimePlatform == Device.iOS)
-                MainPage = new GridLayout.GridLayoutEx2();
+                MainPage = new RelativeLayout.RelativeLayoutEx1();
             else
                 MainPage = new NavigationPage(new MainPage());
         }
